@@ -146,7 +146,6 @@
 <body>
     <div class="container">
         <h1>🎵Radio Latinas iBE </h1>
-        
         <div class="radio-grid">
             <!-- Radio 1: Olímpica Stereo -->
             <div class="radio-card">
