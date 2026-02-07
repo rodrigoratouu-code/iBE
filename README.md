@@ -3,8 +3,8 @@
 <head>
 <!-- Open Graph -->
 <meta property="og:title" content="Mi Web Dans" />
-<meta property="og:description" content="Bienvenidos a mi sitio web" />
-<meta property="og:image" content="https://rodrigoratouu-code.github.io/iBE/radioRD.webp" />
+<meta property="og:description" content="Bienvenido a mi sitio web" />
+<meta property="og:image" content="https://rodrigoratouu-code.github.io/iBE/assets/radioRD.webp" />
 <meta property="og:url" content="https://rodrigoratouu-code.github.io/iBE" />
 <meta property="og:type" content="website" />
 
